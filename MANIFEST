@@ -9,5 +9,4 @@ Makefile.PL
 README
 lib/Plack/Middleware/Cache.pm
 lib/Plack/Middleware/Cache.pod
-t/000-compile-modules.t
 t/release-pod-syntax.t

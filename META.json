@@ -54,6 +54,6 @@
          "web" : "https://github.com/ingydotnet/plack-middleware-cache-pm"
       }
    },
-   "version" : "0.18"
+   "version" : "0.19"
 }
 
