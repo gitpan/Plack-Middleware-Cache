@@ -28,4 +28,4 @@ resources:
   bugtracker: https://github.com/ingydotnet/plack-middleware-cache-pm/issues
   homepage: https://github.com/ingydotnet/plack-middleware-cache-pm
   repository: https://github.com/ingydotnet/plack-middleware-cache-pm.git
-version: '0.16'
+version: '0.17'
